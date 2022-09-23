@@ -1,0 +1,27 @@
+﻿  Reading Qt configuration (C:/Qt/Qt5.9.0/5.9/msvc2017_64/bin/qmake)
+  uic MyPaintingBoard.ui
+  rcc MyPaintingBoard.qrc
+  moc MyPaintingBoard.h
+  moc MyGraphicsView.h
+  AbstractGraphicsFactory.cpp
+  EllipseItem.cpp
+  GraphicsAggregate.cpp
+  GraphicsFactory.cpp
+  GraphicsGroup.cpp
+  GraphicsIterator.cpp
+  Memento.cpp
+  MyGraphicsScene.cpp
+  MyGraphicsView.cpp
+  RectangleItem.cpp
+  SceneOriginator.cpp
+  TextItem.cpp
+  TriangleItem.cpp
+  Graphics.cpp
+  LineItem.cpp
+  MyPaintingBoard.cpp
+  main.cpp
+D:\Coding2022\MyPaintingBoard\mypaintingboard\MyPaintingBoard\GraphicsIterator.cpp(43): warning C4715: “GraphicsIterator::findGraphics”: 不是所有的控件路径都返回值
+  qrc_MyPaintingBoard.cpp
+  moc_MyPaintingBoard.cpp
+  moc_MyGraphicsView.cpp
+  MyPaintingBoard.vcxproj -> D:\Coding2022\MyPaintingBoard\mypaintingboard\MyPaintingBoard\x64\Release\MyPaintingBoard.exe
